@@ -2,6 +2,9 @@
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
+<h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
+<h3 align="center">A passionate Full Stack developer from India</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webvishal&label=Profile%20views&color=0e75b6&style=flat" alt="webvishal" /> </p>
 
 - 🔭 I’m currently working on **BestdeskCove**
@@ -10,13 +13,13 @@
 
 - 📝 I regularly write articles on [https://trainrunning-status.com/](https://trainrunning-status.com/)
 
-- 💬 Ask me about <br> **I'm a Professional Software Developer and <br>Currently Working with React JS and PHP<p>**
+- 💬 Ask me about **I'm a Professional Software Developer and, <br> Currently Working with React JS and PHP**
 
 - 📫 How to reach me **kasotiyavishal221@gmail.com**
 
-- ⚡ Fun fact <br>
-        **👉First I drink Tea. Then I do the things.** <br>
-        **👉 If I cannot do great things, I can do small things in a great way**
+- ⚡ Fun fact
+<br> **👉First I drink Tea. Then I do the things.
+<br>   👉 If I cannot do great things, I can do small things in a great way**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,3 +34,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=webvishal&show_icons=true&locale=en&layout=compact" alt="webvishal" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=webvishal&show_icons=true&locale=en" alt="webvishal" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=webvishal&" alt="webvishal" /></p>
